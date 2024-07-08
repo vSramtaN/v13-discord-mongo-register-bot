@@ -1,2 +1,2 @@
 # v13-discord-mongo-register-bot
-15 Star ve üstü gelirse paylaşılır
+20 Star üstü gelirse paylaşılır
